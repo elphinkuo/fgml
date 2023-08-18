@@ -1,3 +1,6 @@
 [submodule "llamaqt"]
 	path = llamaqt
 	url = https://github.com/elphinkuo/llamaqt.c.git
+[submodule "HessianQuantization_DenseSparse"]
+	path = HessianQuantization_DenseSparse
+	url = https://github.com/elphinkuo/dense_sparse_quant_hessian.git
