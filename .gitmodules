@@ -1,0 +1,3 @@
+[submodule "llamaqt"]
+	path = llamaqt
+	url = https://github.com/elphinkuo/llamaqt.c.git
