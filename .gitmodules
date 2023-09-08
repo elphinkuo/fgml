@@ -4,3 +4,6 @@
 [submodule "HessianQuantization_DenseSparse"]
 	path = HessianQuantization_DenseSparse
 	url = https://github.com/elphinkuo/dense_sparse_quant_hessian.git
+[submodule "autocompress/autoprune"]
+	path = autocompress/autoprune
+	url = https://github.com/elphinkuo/distiller
